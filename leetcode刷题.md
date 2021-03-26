@@ -528,6 +528,7 @@ var combine = function(n, k) {
 
 };
 ```
+### 组合总和
 ### 排列序列
 #### [排列序列](https://leetcode-cn.com/problems/permutation-sequence/)
 
