@@ -2,6 +2,7 @@
 最简单的中序遍历
 ![image.png](https://cdn.nlark.com/yuque/0/2021/png/2932826/1609556376838-a08af7a0-e176-42f8-8edd-c8fbdca7d1a5.png#align=left&display=inline&height=400&margin=%5Bobject%20Object%5D&name=image.png&originHeight=551&originWidth=1028&size=110231&status=done&style=none&width=746)
 **如果需要搜索整颗二叉树，那么递归函数就不要返回值，如果要搜索其中一条符合条件的路径，递归函数就需要返回值，因为遇到符合条件的路径了就要及时返回**
+实时更新的操作
 ## 数组相关的知识
 ### 初始化
 ```javascript
